@@ -1,1 +1,6 @@
-
+model_path: "yolov8n.pt"
+confidence_threshold: 0.45
+frame_width: 640
+time_threshold_seconds: 5.0
+room_id: "sala-12"
+camera_id: "cam-01"
