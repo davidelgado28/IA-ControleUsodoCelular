@@ -2,7 +2,6 @@ import json
 import datetime
 
 def dispatch_alert(room_id, camera_id, track_id, duration, confidence):
-    """Monta o payload JSON e simula o disparo assíncrono para o painel."""
     event = {
         "event": "phone_use_sustained",
         "room_id": room_id,
