@@ -7,7 +7,6 @@ class PhoneTracker:
         self.alerted_tracks = set() 
 
     def update(self, current_detections):
-        """Atualiza o tempo de uso e retorna alertas se o limite for atingido."""
         current_time = time.time()
         alerts = []
         current_ids = []
