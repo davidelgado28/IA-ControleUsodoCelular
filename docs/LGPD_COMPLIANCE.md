@@ -1,8 +1,8 @@
 # Diretrizes de Privacidade e Conformidade Legal
 ## Sistema de Monitoramento Escolar via Webcam para Identificação de Uso de Smartphones
 
-**Documento elaborado por:** David Carlos Miranda Delgado
-**Finalidade do sistema:** Apoio à gestão de atenção em sala de aula por meio da identificação, em tempo real, do uso de smartphones por estudantes
+**Documento elaborado por:** David Carlos Miranda Delgado.
+**Finalidade do sistema:** Apoio à gestão de atenção em sala de aula por meio da identificação, em tempo real, do uso de smartphones por estudantes.
 **Base normativa principal:** Lei nº 13.709/2018 (LGPD), com atenção especial ao art. 14 (tratamento de dados de crianças e adolescentes)
 
 ---
